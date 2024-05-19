@@ -1,2 +1,2 @@
 # Angular-Todo-App
-Todo App created in AngularTs with Tailwind
+Todo App created in Angular 17 with Tailwind.

@@ -1,19 +1,44 @@
 {
-  "posts": [
+  "tasks": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "title": "Learn Angular",
+      "important": true
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "title": "Post 2",
+      "completed": true,
+      "important": true
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "important": true
+    },
+    {
+      "title": "Hey",
+      "id": 4,
+      "important": true,
+      "completed": true
+    },
+    {
+      "title": "dsadas",
+      "id": 5,
+      "completed": true,
+      "important": true
+    },
+    {
+      "title": "Jeez Louise",
+      "id": 6
+    },
+    {
+      "title": "dasdas",
+      "id": 7
+    },
+    {
+      "title": "Johny Baz",
+      "id": 8
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
